@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @allaberdi001
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently studying on a course online IBM course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: @allaberdi01 on telegram
 - 😄 Pronouns: he/him
